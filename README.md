@@ -29,7 +29,7 @@ Me considero proactivo, creativo y comprometido con la calidad en cada proyecto 
 
 ---
 
-<h3 align="left">💻 Lenguajes de Programación:</h3>
+<h3 align="left">Lenguajes de Programación:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -53,7 +53,7 @@ Me considero proactivo, creativo y comprometido con la calidad en cada proyecto 
 
 ---
 
-<h3 align="left">🛠️ Herramientas y Tecnologías:</h3>
+<h3 align="left">Herramientas y Tecnologías:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
